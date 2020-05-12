@@ -1,0 +1,9 @@
+{
+    "ViewController": {
+        "backgroundColor": "#000000",
+        "testLabel": {
+            "backgroundColor": "#FFFFFF",
+            "textColor": "#000000"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - SwiftTheme (0.5.2)
+
+DEPENDENCIES:
+  - SwiftTheme
+
+SPEC REPOS:
+  trunk:
+    - SwiftTheme
+
+SPEC CHECKSUMS:
+  SwiftTheme: 8b02c479bb4441b2b6790ac126e961b1b6fb0932
+
+PODFILE CHECKSUM: 1ffd2a293d54bc5fcf9966d37e4d904d2eee921f
+
+COCOAPODS: 1.9.1
